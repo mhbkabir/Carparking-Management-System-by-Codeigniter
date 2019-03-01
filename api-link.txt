@@ -1,0 +1,9 @@
+﻿http://localhost/parkingapp/api/data/floor/1/controller/1/sensor/4/status/1
+
+
+
+1549946700
+1549949700
+
+
+<?php echo $sensor_1; ?>
